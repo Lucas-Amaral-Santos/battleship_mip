@@ -1,0 +1,4 @@
+cbcbox==2.935
+cffi==2.1.1
+mip==2.0.0
+pycparser==3.12
